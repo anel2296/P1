@@ -1,0 +1,10 @@
+This programe searches for the intersection of a multyvariable array and then uses the specified method proposed by P1, P2, P3 or P4 to find the last intercept of the crime sceen.
+
+To run the programe from the command promp:
+
+java -classpath ./bin  p1MainClasses/Part1Main 1
+java -classpath ./bin  p1MainClasses/Part1Main 2
+java -classpath ./bin  p1MainClasses/Part1Main 3
+java -classpath ./bin  p1MainClasses/Part1Main 4
+java -classpath ./bin  p1MainClasses/Part1Main
+
